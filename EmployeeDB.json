@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Employee": [
+    {
+      "firstname": "sandeep",
+      "lastname": "reddy",
+      "email": "sandeep@gmail.com",
+      "gender": "Male",
+      "package": "14",
+      "education1": "Diplama",
+      "Experience": "7",
+      "companyname": "KFIntech",
+      "DOB": "2023-04-11T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstname": "Abcd",
+      "lastname": "xyz",
+      "email": "abcd@gmail.com",
+      "gender": "Male",
+      "package": "15",
+      "education1": "Graduation",
+      "Experience": "4",
+      "companyname": "google",
+      "DOB": "2023-04-11T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
